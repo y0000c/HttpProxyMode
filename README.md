@@ -5,4 +5,4 @@
 （3）代理模式实践
 （4）“Alvin”老师课程学习,非常感谢
 
-简书：https://www.jianshu.com/u/301c664f8069
+简书：https://www.jianshu.com/p/a67159b67d21
